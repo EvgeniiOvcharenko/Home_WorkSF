@@ -3,11 +3,11 @@
 # Оглавление
 
 [1. Описание проекта](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#ОПИСАНИЕ-ПРОЕКТА)
-[2. Какой кейс решаем](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#КАКОЙ КЕЙС РЕШАЕМ)
-[3. Краткая информация о данных]()
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[2. Какой кейс решаем](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#КАКОЙ-КЕЙС-РЕШАЕМ)
+[3. Краткая информация о данных](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#КРАТКАЯ-ИНФОРМАЦИЯ-О-ДАННЫХ)
+[4. Этапы работы над проектом](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#ЭТАПЫ-РАБОТЫ-НАД-ПРОЕКТОМ)
+[5. Результат](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#РЕЗУЛЬТАТЫ)
+[6. Выводы](https://github.com/EvgeniiOvcharenko/Home_WorkSF/blob/main/TASK%208.1.%20MODULE%208%20(HW-01)/README.MD#ВЫВОДЫ)
 
 ### ОПИСАНИЕ ПРОЕКТА
 Алгоритм, который угадывает загаданное компьютером число за минимальное количество попыток.
@@ -25,7 +25,19 @@
 ## Что практикуем
 Учимся писать хороший код на Python
 
+### КРАТКАЯ ИНФОРМАЦИЯ О ДАННЫХ
+...
 
+### ЭТАПЫ РАБОТЫ НАД ПРОЕКТОМ
+...
+
+### РЕЗУЛЬТАТЫ
+
+Данная программа угадывает загаданное число от 1 до 100 в среднем при 1000 повторений за 8 попыток.
+
+### ВЫВОДЫ
+
+Программа находит число меньше чем за 20 попыток. Что удовлетворяет поставленным условиям.
 
 
 
